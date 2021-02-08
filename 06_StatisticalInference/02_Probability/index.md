@@ -14,7 +14,7 @@ widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 
-## 1. Probability
+## Probability
 
 - In these slides we will cover the basics of probability at low enough level
 to have a basic understanding for the rest of the series
